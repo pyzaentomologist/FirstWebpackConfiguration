@@ -9,3 +9,5 @@ e1.addBgc('red');
 const e2 = new Creator();
 e2.addBgc('blue');
 const e3 = new Creator();
+e3.addBgc();
+e3.showColor();

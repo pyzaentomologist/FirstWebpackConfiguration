@@ -14,7 +14,7 @@ module.exports = {
     },
     devServer: {
         open: true,
-        contentBase: path.resolve(__dirname, '../src', 'assets'),
+        contentBase: path.resolve(__dirname, '../', 'src'),
         port: 5001,
     },
     module: {
